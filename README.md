@@ -4,8 +4,8 @@ Basic file and directory structure designed to help you convert HTML based templ
 ## Purpose of this Code
 You can use this code in two ways:
 
-1. To take an existing HTML based template and reassemble it into a PHP / MySQL file structure.
-2. To use as a base for an HTML template you are creating so that can easily be used with PHP / MySQL.
+I. To take an existing HTML based template and reassemble it into a PHP / MySQL file structure.
+II. To use as a base for an HTML template you are creating so that can easily be used with PHP / MySQL.
 
 This repository contains the empty files and folder structure, plus instructions on how to convert the HTML template into PHP. It does not work out of the box and is not intended to. It's just here to save you some time.
 
@@ -18,8 +18,8 @@ This repository contains the empty files and folder structure, plus instructions
 
 Additionally, you may also need:
 
-4. To download the latest versions of Bootstrap, JQuery or other libraries, if your template uses them, or you intend on using them.
-5. The code necessary to connect with your login or user management system.
+5. To download the latest versions of Bootstrap, JQuery or other libraries, if your template uses them, or you intend on using them.
+6. The code necessary to connect with your login or user management system.
 
 For example, your HTML template may come with a copy of Boostrap, but it is not the most secure version. You would want to update it. But make sure that you update to the same major version of Bootstrap. Update version 3.x to the latest version of 3, or update version 4 to the latest version of 4. Versions 4 is not backwards compatible with 3.
 
