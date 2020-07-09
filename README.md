@@ -25,6 +25,11 @@ For example, your HTML template may come with a copy of Boostrap, but it is not 
 
 Or, another example, is if you have a script that handles user sessions. You would want to integrate the appropriate code into your pages so that it works. This would be different for each user management system.
 
+## Comments in the Code
+We have tried to comment the code as much as possible so that you can quickly figure out what does what, and any developers who have to maintain your code after you will know what the basic structure of the site is.
+
+We have left some spots where you can fill in the blank with additional information. These are obviously optional, but we've found that having certain notes helps us when we go back to edit code we've long forgotten about.
+
 ## Why
 When I am creating a new website from sratch, I frequently use a custom template, and these templates are often made by third parties and mostly consist of HTML. Since I am making a PHP based database driven website, I have to convert their HTML template into usable PHP files.
 
