@@ -33,6 +33,7 @@ We have left some spots where you can fill in the blank with additional informat
 Some useful things you might want to fill out in the comments:
 * If it is a template you created, add the link to your website in the approproate spots.
 * If you are using someone else's HTML template, include a link to the documentation for the template, either locally or online.
+* If you cloned this repository, you may want to link to your cloned copy, as well.
 
 ## Why
 When I am creating a new website from sratch, I frequently use a custom template, and these templates are often made by third parties and mostly consist of HTML. Since I am making a PHP based database driven website, I have to convert their HTML template into usable PHP files.
