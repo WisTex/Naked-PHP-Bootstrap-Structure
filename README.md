@@ -28,7 +28,7 @@ Or, another example, is if you have a script that handles user sessions. You wou
 ## Important Notes
 Here are some things to keep in mind:
 
-If the HTML template you are converting expects certain things in certain places, you might have to change the structure a bit. For example, if it expects Bootstrap to be in a certain directory, You either need to put it in that directory, or change all references to point to the new location.
+If the HTML template you are converting expects certain things in certain places, you might have to change the structure a bit. For example, if it expects Bootstrap to be in a certain directory, you either need to put it in that directory, or change all references to point to the new location.
 
 You can also use a CDN for Bootstrap, jQuery and other popular libraries. There are upsides and downsides to doing this. We like using a local copy, so we can ensure availability, but you can link to the CDN version instead if you want.
 
