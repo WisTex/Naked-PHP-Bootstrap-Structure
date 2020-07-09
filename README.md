@@ -21,7 +21,7 @@ Additionally, you may also need:
 5. To download the latest versions of Bootstrap, JQuery or other libraries, if your template uses them, or you intend on using them.
 6. The code necessary to connect with your login or user management system.
 
-For example, your HTML template may come with a copy of Boostrap, but it is not the most secure version. You would want to update it. But make sure that you update to the same major version of Bootstrap. Update version 3.x to the latest version of 3, or update version 4 to the latest version of 4. Versions 4 is not backwards compatible with 3.
+For example, your HTML template may come with a copy of Boostrap, but it is not the most secure version. You would want to update it. But make sure that you update to the same major version of Bootstrap. Update version 3.x to the latest version of 3, or update version 4 to the latest version of 4. Version 4 is not backwards compatible with 3.
 
 Or, another example, is if you have a script that handles user sessions. You would want to integrate the appropriate code into your pages so that it works. This would be different for each user management system.
 
