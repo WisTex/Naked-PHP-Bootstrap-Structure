@@ -32,7 +32,7 @@ If the HTML template you are converting expects certain things in certain places
 
 You can also use a CDN for Bootstrap, jQuery and other popular libraries. There are upsides and downsides to doing this. We like using a local copy, so we can ensure availability, but you can link to the CDN version instead if you want.
 
-There may be things included in this structure that you do not use. You don't have to use it. For example, if you do not have a user login system, then you can remove the code that reference that.
+There may be things included in this structure that you do not use. You don't have to use it. For example, if you do not have a user login system, then you can remove the code that references that.
 
 ## Comments in the Code
 We have tried to comment the code as much as possible so that you can quickly figure out what does what, and any developers who have to maintain your code after you will know what the basic structure of the site is.
