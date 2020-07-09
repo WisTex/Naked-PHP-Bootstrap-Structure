@@ -31,3 +31,13 @@ When I am creating a new website from sratch, I frequently use a custom template
 To make it easier to convert the HTML template into PHP files, I have created this basic structure to speed up the process.
 
 I figured that I am not the only one with this task, so I am sharing the code here for everyone to use.
+
+## License & Uses
+This code is licensed under the MIT license. So you basically can do what you want with it as long as you give us credit and include a copy of the MIT license for our code. We politely ask that you leave links to the main repsoitory in the source code, both for your future reference, and because, well, we like getting credit for our little part of the code.
+
+You can use it for:
+1. Creating your own websites.
+2. Incorporating this into a template you are creating.
+3. Using it as class exercises on how to convert HTML websites to PHP.
+
+If you do use this code in a GPL or similar license, or any license that is more restrictive than the MIT license, we kindly ask you to leave the link to the MIT version of this code (our main repository) so if people want JUST this code, they can still get it under the MIT license.
