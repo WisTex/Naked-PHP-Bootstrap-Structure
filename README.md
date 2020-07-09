@@ -30,9 +30,9 @@ We have tried to comment the code as much as possible so that you can quickly fi
 
 We have left some spots where you can fill in the blank with additional information. These are obviously optional, but we've found that having certain notes helps us when we go back to edit code we've long forgotten about. It might save you time down the road if you add your own comments.
 
-Someuseful things you might want to fill out in the comments:
+Some useful things you might want to fill out in the comments:
 * If it is a template you created, add the link to your website in the approproate spots.
-* If you are using someone else's HTML template, include a link to the documentation for the template, either localy or online.
+* If you are using someone else's HTML template, include a link to the documentation for the template, either locally or online.
 
 ## Why
 When I am creating a new website from sratch, I frequently use a custom template, and these templates are often made by third parties and mostly consist of HTML. Since I am making a PHP based database driven website, I have to convert their HTML template into usable PHP files.
@@ -49,4 +49,6 @@ You can use it for:
 2. Incorporating this into a template you are creating.
 3. Using it as class exercises on how to convert HTML websites to PHP.
 
-If you do use this code in a GPL or similar license, or any license that is more restrictive than the MIT license, we kindly ask you to leave the link to the MIT version of this code (our main repository) so if people want JUST this code, they can still get it under the MIT license.
+If you do use this code in combination with script licensed under a GPL or similar license, or any license that is more restrictive than the MIT license, we kindly ask you to leave the link to the MIT version of this code (our main repository) so if people want JUST this code, they can still get it under the MIT license.
+
+The main repository for this code resides at: https://github.com/WisTex/Naked-PHP-Bootstrap-Structure
