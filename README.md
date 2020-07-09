@@ -32,6 +32,8 @@ If the HTML template you are converting expects certain things in certain places
 
 You can also use a CDN for Bootstrap, jQuery and other popular libraries. There are upsides and downsides to doing this. We like using a local copy, so we can ensure availability, but you can link to the CDN version instead if you want.
 
+There may be things included in this structure that you do not use. You don't have to use it. For example, if you do not have a user login system, then you can remove the code that reference that.
+
 ## Comments in the Code
 We have tried to comment the code as much as possible so that you can quickly figure out what does what, and any developers who have to maintain your code after you will know what the basic structure of the site is.
 
@@ -40,7 +42,7 @@ We have left some spots where you can fill in the blank with additional informat
 Some useful things you might want to fill out in the comments:
 * If it is a template you created, add the link to your website in the approproate spots.
 * If you are using someone else's HTML template, include a link to the documentation for the template, either locally or online.
-* If you cloned this repository, you may want to link to your cloned copy, as well.
+* If you have your own repository, you may want to link to it, as well.
 
 ## Why
 When I am creating a new website from sratch, I frequently use a custom template, and these templates are often made by third parties and mostly consist of HTML. Since I am making a PHP based database driven website, I have to convert their HTML template into usable PHP files.
