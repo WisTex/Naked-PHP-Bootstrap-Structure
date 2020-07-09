@@ -8,6 +8,8 @@ To make it easier to convert the HTML template into PHP files, I have created th
 
 This repository contains the the empty files and folder structure, plus instructions on how to convert the HTML template into PHP. It does not work out of the box and is not intended to. It's just here to save you some time.
 
+You can also use this basic structure to create your own templates. If you or people who use your template wish to use PHP and MySQL, this will make the site easier to create.
+
 ## What you Will Need
 
 1. This set of naked files.
