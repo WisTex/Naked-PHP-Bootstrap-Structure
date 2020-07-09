@@ -4,8 +4,8 @@ Basic file and directory structure designed to help you convert HTML based templ
 ## Purpose of this Code
 You can use this code in two ways:
 
-I. To take an existing HTML based template and reassemble it into a PHP / MySQL file structure.
-II. To use as a base for an HTML template you are creating so that can easily be used with PHP / MySQL.
+1. To take an existing HTML based template and reassemble it into a PHP / MySQL file structure.
+2. To use as a base for an HTML template you are creating so that can easily be used with PHP / MySQL.
 
 This repository contains the empty files and folder structure, plus instructions on how to convert the HTML template into PHP. It does not work out of the box and is not intended to. It's just here to save you some time.
 
